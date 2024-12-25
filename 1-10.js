@@ -11,4 +11,4 @@ function gazo15() {
 setTimeout("gazo16()",3000); }
 function gazo16() {
   document.getElementById('who2').src=
-'./image/スペシャルヒント.png'; }
+'./image/スペシャルヒント.jpg'; }
